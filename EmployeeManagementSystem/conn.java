@@ -1,4 +1,4 @@
-package EmployeeManagementSystem.LibraryManagementSystem;
+package EmployeeManagementSystem.EmployeeManagementSystem;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

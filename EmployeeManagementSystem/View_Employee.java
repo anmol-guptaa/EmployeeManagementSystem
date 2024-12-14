@@ -1,4 +1,4 @@
-package EmployeeManagementSystem.LibraryManagementSystem;
+package EmployeeManagementSystem.EmployeeManagementSystem;
 
 import net.proteanit.sql.DbUtils;
 

@@ -1,4 +1,4 @@
-package EmployeeManagementSystem.LibraryManagementSystem;
+package EmployeeManagementSystem.EmployeeManagementSystem;
 
 import javax.swing.*;
 import java.awt.*;
